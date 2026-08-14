@@ -1,0 +1,43 @@
+* {
+    background-color: #212121;
+    color: white;
+    margin: 0;
+}
+
+body {
+    background-color: red !important;
+}
+
+.navbar {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+.navbar p {
+    margin: 0;
+    background-color: white;
+    color: black;
+    padding: 20px;
+
+}
+
+.homeBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-text {
+    font-size: xx-large;
+    font-weight: bold;
+    margin: 30px;
+}
+
+.ghost-logo {
+    height: 400px;
+    width: auto;
+}

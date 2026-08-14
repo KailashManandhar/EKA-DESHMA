@@ -12,8 +12,6 @@ function App() {
       <Route path="/upload" element={<Upload />} />
     </Routes>
   </BrowserRouter>
-
-
   )
 }
 

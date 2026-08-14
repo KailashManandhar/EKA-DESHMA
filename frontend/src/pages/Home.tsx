@@ -1,9 +1,9 @@
 
-import bhoot from "./../../public/bhoot.png"
+import bhoot from "./../assets/bhoot.png"
 export default function Home() {
     return (<>
         <div className="homeBody">
-            <p className="hero-text">एक देशमा.....</p>
+            <p className="hero-text">एका देशमा.....</p>
             <div className="ghostDiv">
                 <img src={bhoot} alt="bhoot ko image" className="ghost-logo" />
             </div>
