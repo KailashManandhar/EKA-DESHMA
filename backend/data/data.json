@@ -1,35 +1,84 @@
 [
-    {
-        "title": "The Abandoned Cabin",
-        "description": "A group of friends discovers an abandoned cabin deep in the woods. The building appears to have been empty for decades, yet fresh footprints surround the entrance. Strange noises can be heard coming from the basement every night. They decide to investigate despite warnings from the locals. What they find inside changes their plans completely.",
-        "date": "2026-08-14",
-        "email": "alex.morgan@example.com",
-        "name": "Alex Morgan"
-    },
-    {
-        "title": "Midnight Train",
-        "description": "A mysterious train arrives at an empty station exactly at midnight. There are no records of the train on the official schedule. A curious passenger boards and discovers that every other person inside seems strangely familiar. As the train moves farther from the city, the passenger realizes it is not following any normal railway route. Finding a way back becomes harder with every passing minute.",
-        "date": "2026-08-12",
-        "email": "sarah.lee@example.com",
-        "name": "Sarah Lee"
-    },
-    {
-        "title": "The Locked Room",
-        "description": "An old mansion contains a room that has remained locked for more than fifty years. The owner refuses to explain why nobody is allowed to enter it. One evening, the door is found mysteriously open. Inside, there are dozens of photographs covering the walls and a clock that has stopped at exactly midnight. The discovery raises more questions than answers.",
-        "date": "2026-08-09",
-        "email": "daniel.carter@example.com"
-    },
-    {
-        "title": "Whispers in the Forest",
-        "description": "A photographer travels to a remote forest to capture pictures of rare wildlife. During the first night, strange whispers begin coming from the trees surrounding the campsite. The sounds seem to call the photographer by name despite being completely alone. The following morning, unfamiliar objects are found placed around the tent. Before leaving, the photographer discovers something hidden beneath the forest floor.",
-        "date": "2026-08-06",
-        "email": "jordan.wilson@example.com"
-    },
-    {
-        "title": "The Forgotten Diary",
-        "description": "While cleaning an old house, someone discovers a diary hidden behind a loose wooden panel. The diary belongs to a person who supposedly disappeared decades ago. Each entry describes events that happened in the house long before the current owners moved in. The final pages contain details about things happening right now. The last unfinished sentence leaves a terrifying question behind.",
-        "date": "2026-08-03",
-        "email": "emma.brown@example.com",
-        "name": "Emma Brown"
-    }
+  {
+    "title": "The Abandoned Cabin",
+    "description": "A group of friends discovers an abandoned cabin deep in the woods. The building appears to have been empty for decades, yet fresh footprints surround the entrance. Strange noises can be heard coming from the basement every night. They decide to investigate despite warnings from the locals. What they find inside changes their plans completely.",
+    "date": "2026-08-14",
+    "email": "alex.morgan@example.com",
+    "name": "Alex Morgan"
+  },
+  {
+    "title": "Midnight Train",
+    "description": "A mysterious train arrives at an empty station exactly at midnight. There are no records of the train on the official schedule. A curious passenger boards and discovers that every other person inside seems strangely familiar. As the train moves farther from the city, the passenger realizes it is not following any normal railway route. Finding a way back becomes harder with every passing minute.",
+    "date": "2026-08-12",
+    "email": "sarah.lee@example.com",
+    "name": "Sarah Lee"
+  },
+  {
+    "title": "The Locked Room",
+    "description": "An old mansion contains a room that has remained locked for more than fifty years. The owner refuses to explain why nobody is allowed to enter it. One evening, the door is found mysteriously open. Inside, there are dozens of photographs covering the walls and a clock that has stopped at exactly midnight. The discovery raises more questions than answers.",
+    "date": "2026-08-09",
+    "email": "daniel.carter@example.com"
+  },
+  {
+    "title": "Whispers in the Forest",
+    "description": "A photographer travels to a remote forest to capture pictures of rare wildlife. During the first night, strange whispers begin coming from the trees surrounding the campsite. The sounds seem to call the photographer by name despite being completely alone. The following morning, unfamiliar objects are found placed around the tent. Before leaving, the photographer discovers something hidden beneath the forest floor.",
+    "date": "2026-08-06",
+    "email": "jordan.wilson@example.com"
+  },
+  {
+    "title": "The Forgotten Diary",
+    "description": "While cleaning an old house, someone discovers a diary hidden behind a loose wooden panel. The diary belongs to a person who supposedly disappeared decades ago. Each entry describes events that happened in the house long before the current owners moved in. The final pages contain details about things happening right now. The last unfinished sentence leaves a terrifying question behind.",
+    "date": "2026-08-03",
+    "email": "emma.brown@example.com",
+    "name": "Emma Brown"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  },
+  {
+    "title": "tis title",
+    "description": "default value here",
+    "date": "2026-08-16",
+    "email": "manandhar1@gmail.com",
+    "name": "kailash"
+  }
 ]
